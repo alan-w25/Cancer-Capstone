@@ -1,0 +1,96 @@
+,patient_id,survival_status,days_alive,histology,stage,treatment,delfi_score
+0,CGPLLU397P,1,1059,SCLC,I,Surgery,0.0990365672277868
+1,CGPLLU607P,1,1640,Adenocarcinoma,I,Surgery,0.533452638028869
+2,CGPLLU637P,1,101,Squamous,IV,Palliative Chemotherapy/Radiation,0.82266240708854
+3,CGPLLU538P,1,1228,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.238950010869641
+4,CGPLLU349P,1,754,Adenocarcinoma,III,Chemotherapy/Radiation with curative intent,0.199820331916716
+5,CGPLLU369P,1,542,Adenocarcinoma,IV,Chemotherapy/Radiation with curative intent,0.548444422745883
+6,CGPLLU336P,1,723,Adenocarcinoma,III,Surgery,0.479654050213289
+7,CGPLLU435P,0,2710,Adenocarcinoma,I,Surgery,0.311195794044995
+8,CGPLLU398P,1,238,Adenocarcinoma,IV,Chemotherapy/Radiation with curative intent,0.632051510066613
+9,CGPLLU629P,1,91,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.0297389575449169
+10,CGPLLU559P,1,283,Adenocarcinoma,IV,Surgery+adjuvant treatment,0.458188446087954
+11,CGPLLU611P,1,245,Adenocarcinoma,IV,Surgery,0.158891733950658
+12,CGPLLU314P,0,2766,Adenocarcinoma,IV,Chemotherapy/Radiation with curative intent,0.0986742958402198
+13,CGPLLU323P,0,2760,Squamous,I,Surgery,0.0975877324860239
+14,CGPLLU488P,1,660,Adenocarcinoma,III,Palliative Chemotherapy/Radiation,0.286573572636403
+15,CGPLLU283P,1,425,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.749497550482067
+16,CGPLLU373P,1,228,Squamous,III,Palliative Chemotherapy/Radiation,0.277712352749517
+17,CGPLLU606P,1,1076,Adenocarcinoma,III,Palliative Chemotherapy/Radiation,0.482354884564832
+18,CGPLLU290P,0,2774,Adenocarcinoma,I,Surgery,0.234242742417444
+19,CGPLLU578P,1,277,Adenocarcinoma,III,Chemotherapy/Radiation with curative intent,0.658830357495849
+20,CGPLLU584P,0,2617,Adenocarcinoma,I,Surgery,0.512386853513607
+21,CGPLLU375P,1,21,Adenocarcinoma,IV,No treatment,0.143686255386882
+22,CGPLLU400P,1,575,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.204564973013306
+23,CGPLLU467P,0,2695,Squamous,II,Chemotherapy/Radiation with curative intent,0.694008800427209
+24,CGPLLU443P,0,2704,Adenocarcinoma,II,Surgery,0.293440625079404
+25,CGPLLU333P,0,2757,Squamous,III,Surgery+adjuvant treatment,0.564450841097613
+26,CGPLLU301P,0,2771,Adenocarcinoma,III,Chemotherapy/Radiation with curative intent,0.298852035763668
+27,CGPLLU633P,0,2561,Adenocarcinoma,III,Surgery+adjuvant treatment,0.0817481631002026
+28,CGPLLU569P,0,2625,Squamous,I,Surgery,0.675361241871264
+29,CGPLLU316P,1,734,Squamous,III,Chemotherapy/Radiation with curative intent,0.503382369326964
+30,CGPLLU409P,0,2722,Adenocarcinoma,IV,Chemotherapy/Radiation with curative intent,0.359992200856143
+31,CGPLLU585P,1,868,Adenocarcinoma,III,Chemotherapy/Radiation with curative intent,0.6781027375203
+32,CGPLLU341P,1,1481,Squamous,I,Surgery,0.431792501322259
+33,CGPLLU410P,1,2254,Adenocarcinoma,II,Surgery,0.189877822538352
+34,CGPLLU464P,1,249,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.590897931454149
+35,CGPLLU325P,1,296,Adenocarcinoma,III,Chemotherapy/Radiation with curative intent,0.708285976483873
+36,CGPLLU638P,1,26,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.978369699821011
+37,CGPLLU376P,1,1563,Adenocarcinoma,I,Surgery,0.604298572180344
+38,CGPLLU437P,1,514,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.345887205356036
+39,CGPLLU366P,1,377,Squamous,IV,Palliative Chemotherapy/Radiation,0.315862385993612
+40,CGPLLU307P,1,39,Adenocarcinoma,II,Surgery,0.790622552038069
+41,CGPLLU441P,1,453,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.585799061099534
+42,CGPLLU311P,1,305,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.727061022058437
+43,CGPLLU587P,1,20,Adenocarcinoma,IV,No treatment,0.92794271332321
+44,CGPLLU639P,1,50,Adenocarcinoma,IV,No treatment,0.953925549608818
+45,CGPLLU449P,1,184,Squamous,II,Palliative Chemotherapy/Radiation,0.746180083620918
+46,CGPLLU384P,1,358,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.799065747239975
+47,CGPLLU544P,0,2634,Squamous,III,Chemotherapy/Radiation with curative intent,0.696879517630891
+48,CGPLLU468P,1,38,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.689593936319126
+49,CGPLLU506P,1,364,Squamous,III,Chemotherapy/Radiation with curative intent,0.965121534724987
+50,CGPLLU550P,1,71,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.926617026400452
+51,CGPLLU302P,1,2373,Squamous,III,Surgery+adjuvant treatment,0.899927380629475
+52,CGPLLU320P,1,78,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.562390557699833
+53,CGPLLU543P,1,164,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999999736967535
+54,CGPLLU628P,1,313,Squamous,IV,Palliative Chemotherapy/Radiation,0.997966807056286
+55,CGPLLU403P,0,2724,Adenocarcinoma,III,Surgery+adjuvant treatment,0.975395360179623
+56,CGPLLU343P,1,573,SCLC,III,Chemotherapy/Radiation with curative intent,0.999767882119207
+57,CGPLLU284P,1,97,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,1.0
+58,CGPLLU388P,1,23,Squamous,IV,No treatment,0.997906608353394
+59,CGPLLU616P,1,157,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.995642812111658
+60,CGPLLU516P,1,447,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999979613474442
+61,CGPLLU281P,1,563,Squamous,III,Chemotherapy/Radiation with curative intent,0.913986475969386
+62,CGPLLU566P,1,201,Squamous,IV,Palliative Chemotherapy/Radiation,0.999270772836135
+63,CGPLLU414P,1,805,Adenocarcinoma,III,Palliative Chemotherapy/Radiation,0.999542070745739
+64,CGPLLU504P,1,644,Adenocarcinoma,III,Chemotherapy/Radiation with curative intent,0.999728643464195
+65,CGPLLU452P,1,31,Adenocarcinoma,IV,No treatment,0.988219615950325
+66,CGPLLU505P,1,11,Adenocarcinoma,IV,No treatment,1.0
+67,CGPLLU344P,1,291,Squamous,III,Palliative Chemotherapy/Radiation,0.999999804866152
+68,CGPLLU622P,0,2575,Squamous,II,Surgery,0.999358359148148
+69,CGPLLU408P,1,110,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999983402862559
+70,CGPLLU477P,1,50,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999974695512275
+71,CGPLLU392P,1,70,Squamous,IV,Palliative Chemotherapy/Radiation,1.0
+72,CGPLLU594P,1,550,SCLC,III,Palliative Chemotherapy/Radiation,0.999999999898587
+73,CGPLLU327P,0,2758,SCLC,III,Chemotherapy/Radiation with curative intent,0.992746109069536
+74,CGPLLU424P,1,1171,Squamous,III,Chemotherapy/Radiation with curative intent,0.999999993611594
+75,CGPLLU294P,1,56,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999999999999135
+76,CGPLLU426P,1,603,SCLC,III,Palliative Chemotherapy/Radiation,0.999999839680467
+77,CGPLLU469P,1,28,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,1.0
+78,CGPLLU588P,1,24,SCLC,IV,No treatment,1.0
+79,CGPLLU439P,1,88,Adenocarcinoma,IV,No treatment,0.999999636504519
+80,CGPLLU458P,1,281,SCLC,III,Palliative Chemotherapy/Radiation,1.0
+81,CGPLLU473P,1,300,SCLC,IV,Palliative Chemotherapy/Radiation,0.9999908630621
+82,CGPLLU457P,0,2701,SCLC,III,Chemotherapy/Radiation with curative intent,0.985631491074632
+83,CGPLLU306P,1,52,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999999999965837
+84,CGPLLU531P,1,27,SCLC,IV,No treatment,1.0
+85,CGPLLU378P,1,52,Squamous,IV,No treatment,0.999919999506052
+86,CGPLLU518P,1,78,Squamous,III,Palliative Chemotherapy/Radiation,1.0
+87,CGPLLU480P,1,72,Squamous,IV,No treatment,0.999999999999988
+88,CGPLLU456P,1,42,Squamous,III,No treatment,0.999999952775094
+89,CGPLLU335P,1,231,Squamous,IV,Palliative Chemotherapy/Radiation,1.0
+90,CGPLLU501P,1,1504,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999999878404398
+91,CGPLLU313P,1,28,Adenocarcinoma,IV,Palliative Chemotherapy/Radiation,0.999999999999986
+92,CGPLLU404P,1,299,SCLC,IV,Palliative Chemotherapy/Radiation,1.0
+93,CGPLLU321P,1,606,Squamous,III,Palliative Chemotherapy/Radiation,0.265
+94,CGPLLU533P,1,1519,Adenocarcinoma,I,Chemotherapy/Radiation with curative intent,0.631
